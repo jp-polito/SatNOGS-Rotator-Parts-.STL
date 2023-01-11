@@ -3,7 +3,7 @@ The objective this Repository is facilite the people for printing your parts of 
 
 
 
-To assemble your Rotator you need to print these parts:
+To assembly your Rotator you need to print these parts:
  * 2 - C1040-1_encoder_gear-Chamfer001.stl
  * 2 - C1030-1_motor_mount-BodyFillet003.stl
  * 2 - axis_gear-Fillet.stl
