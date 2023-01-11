@@ -1,0 +1,1 @@
+# SatNOGS-Rotator-Parts-.STL
