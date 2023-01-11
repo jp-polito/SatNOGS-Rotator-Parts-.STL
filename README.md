@@ -1,6 +1,5 @@
 # SatNOGS Rotator Parts .STL
-The objective this Repository is facilite the people for printing your parts of SatNOGS Rotator Version 3.1
-[SatNOGS](https://gitlab.com/librespacefoundation/satnogs/satnogs-rotator/tree/master).
+The objective this Repository is facilite the people for printing your parts of [SatNOGS Rotator Version 3.1](https://gitlab.com/librespacefoundation/satnogs/satnogs-rotator/tree/master).
 
 
 
